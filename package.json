@@ -1,0 +1,22 @@
+{
+  "name": "anime-explorer",
+  "version": "0.0.1",
+  "description": "Une app pour explorer les sites d'anime",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuliostv/AnimeExplorer.git"
+  },
+  "author": "AzuliosTv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azuliostv/AnimeExplorer/issues"
+  },
+  "homepage": "https://github.com/azuliostv/AnimeExplorer#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
